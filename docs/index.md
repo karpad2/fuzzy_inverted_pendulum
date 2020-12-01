@@ -1,7 +1,7 @@
 Óbudai Egyetem
 
 ![Óbudai Egyetem (\@uni_obuda) \|
-Twitter](media/image1.png){width="1.463999343832021in"
+Twitter](docs/media/image1.png){width="1.463999343832021in"
 height="1.463999343832021in"}
 
 Inverz inga szabályozása fuzzy és Labview alkalmazássávaL
@@ -45,12 +45,12 @@ Elméleti alapok
 
 ![21.4. A megerősítéses tanulás általánosító-képessége \| Mesterséges
 Intelligencia Elektronikus
-Almanach](media/image2.png){width="3.8017924321959753in"
+Almanach](docs/media/image2.png){width="3.8017924321959753in"
 height="3.1557852143482066in"}
 
 #### Állapottéri modell:
 
-![](media/image3.png){width="0.7501049868766404in"
+![](docs/media/image3.png){width="0.7501049868766404in"
 height="0.9793033683289589in"}
 
 A kimeneti egyenletek ilyen módon egyszerűen adódnak, mert a mért érték
@@ -58,7 +58,7 @@ az inga szöghelyzete:
 
 $$y = x_{3}$$
 
-![](media/image4.png){width="3.6359241032370955in"
+![](docs/media/image4.png){width="3.6359241032370955in"
 height="1.156411854768154in"}
 
 ##### Az inga fizikai adatai:
@@ -73,12 +73,12 @@ $$l = 0,3m$$
 
 Behelyettesítve az adatokat:
 
-![](media/image5.png){width="3.427561242344707in"
+![](docs/media/image5.png){width="3.427561242344707in"
 height="2.6253663604549433in"}
 
 A rendszer pólusai:
 
-![](media/image6.png){width="1.1980839895013122in"
+![](docs/media/image6.png){width="1.1980839895013122in"
 height="1.2397561242344708in"}
 
 #### Fuzzy szabályozás
@@ -88,11 +88,11 @@ halmazok logikájának neveznek.Ebben az állapotban úgy lett beállítva a
 fuzzy mint egy lookup table. Adott értékre add, vagy visszavessz az
 alapnak a sebbességéből. Ezáltal próbál egyensúlyozni.
 
-![](media/image7.png){width="6.8in" height="4.446527777777778in"}
+![](docs/media/image7.png){width="6.8in" height="4.446527777777778in"}
 
 ábra 1 Front panel
 
-![](media/image8.png){width="7.014173228346457in"
+![](docs/media/image8.png){width="7.014173228346457in"
 height="3.376000656167979in"}
 
 ábra 2 Block diagram
@@ -103,11 +103,11 @@ A labview tartalmazz egy 3d megjelenítő modult, mely segítségével lehet
 ábrázolni 3D testek mozgását. Gyárilag a labview is tartalmazz egy példa
 programot a 3D inverz inga megjelenítéséhez ezért ez használtam fel.
 
-![](media/image9.png){width="6.8in" height="1.6756944444444444in"}
+![](docs/media/image9.png){width="6.8in" height="1.6756944444444444in"}
 
 ábra 3 3D modell mozgatása
 
-![](media/image10.png){width="6.03200021872266in"
+![](docs/media/image10.png){width="6.03200021872266in"
 height="4.426669947506562in"}
 
 A felhasznált rövidítések
